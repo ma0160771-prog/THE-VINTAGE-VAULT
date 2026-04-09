@@ -1,11 +1,11 @@
-# THE-VINTAGE-Vault
+#OuroThreads
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="The Vintage Vault - Premium thrifted shirts at affordable prices.">
-    <title>The Vintage Vault | Collection</title>
+    <title>OuroThreads| Collection</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
@@ -16,7 +16,7 @@
 
     <nav class="bg-emerald-800 p-4 text-white shadow-md sticky top-0 z-50">
         <div class="container mx-auto flex justify-between items-center">
-            <h1 class="text-xl font-bold tracking-tight">The Vintage Vault.</h1>
+            <h1 class="text-xl font-bold tracking-tight">OuroThreads.</h1>
             <div class="text-sm bg-emerald-700 px-3 py-1 rounded-full">New Arrivals</div>
         </div>
     </nav>
