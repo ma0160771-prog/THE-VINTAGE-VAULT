@@ -77,7 +77,7 @@
     </main>
 
     <footer class="bg-emerald-900 text-emerald-100 py-12 text-center mt-20">
-        <p class="font-bold text-lg">The Vintage Vault</p>
+        <p class="font-bold text-lg">OuroThreads</p>
         <p class="text-sm mt-2 opacity-75">Curated with love. Handpicked for you.</p>
         <p class="text-xs mt-8 opacity-50">&copy; 2026 Sustainable Fashion Movement.</p>
     </footer>
